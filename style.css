@@ -1,0 +1,9 @@
+body {
+    background-color: rgb(180, 37, 183);
+    color: bisque;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
